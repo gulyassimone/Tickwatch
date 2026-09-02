@@ -217,8 +217,6 @@ startup gate is not a guarantee that your token is private.
 - [tools/probe/](tools/probe) — the resource that produced those measurements
 - [dashboards/demo/](dashboards/demo) — the synthetic dataset behind the screenshot
 
-`npm test` runs 185 tests over the shipping Lua in a WebAssembly Lua VM.
-
 ## License
 
 MIT — see [LICENSE](LICENSE).
