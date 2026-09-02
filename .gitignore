@@ -2,6 +2,9 @@
 WIP.md
 docs/spec.md
 
+# Test suite. Kept locally, not published with the resource.
+tests/
+
 # Probe run output. The probe writes it into its own resource folder, so it lands
 # here whenever a test server reaches tools/probe through a junction.
 tools/probe/probe-out.txt
